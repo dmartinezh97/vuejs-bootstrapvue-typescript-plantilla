@@ -1,4 +1,4 @@
-# app
+# Vue + Vuex + TypeScript + BootstrapVue + VeeValidate + Axios
 
 ## Project setup
 ```
